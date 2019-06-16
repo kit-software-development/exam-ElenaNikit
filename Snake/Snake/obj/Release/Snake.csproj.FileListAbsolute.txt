@@ -1,0 +1,9 @@
+C:\Users\Монгол\Desktop\Snake\Snake\bin\Release\Snake.exe.config
+C:\Users\Монгол\Desktop\Snake\Snake\bin\Release\Snake.exe
+C:\Users\Монгол\Desktop\Snake\Snake\bin\Release\Snake.pdb
+C:\Users\Монгол\Desktop\Snake\Snake\obj\Release\Snake.Form1.resources
+C:\Users\Монгол\Desktop\Snake\Snake\obj\Release\Snake.Properties.Resources.resources
+C:\Users\Монгол\Desktop\Snake\Snake\obj\Release\Snake.csproj.GenerateResource.cache
+C:\Users\Монгол\Desktop\Snake\Snake\obj\Release\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Монгол\Desktop\Snake\Snake\obj\Release\Snake.exe
+C:\Users\Монгол\Desktop\Snake\Snake\obj\Release\Snake.pdb

@@ -1,0 +1,39 @@
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\bin\Debug\Snake.exe.config
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\bin\Debug\Snake.exe
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\bin\Debug\Snake.pdb
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.exe
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.pdb
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.Form1.resources
+C:\Users\Монгол\Desktop\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\Монгол\Desktop\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\Монгол\Desktop\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\Монгол\Desktop\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\Монгол\Desktop\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\Монгол\Desktop\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\Монгол\Desktop\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Монгол\Desktop\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\Монгол\Desktop\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\Монгол\Desktop\Snake\Snake\obj\Debug\Snake.GameForm.resources
+E:\Snake\Snake\bin\Debug\Snake.exe.config
+E:\Snake\Snake\bin\Debug\Snake.exe
+E:\Snake\Snake\bin\Debug\Snake.pdb
+E:\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+E:\Snake\Snake\obj\Debug\Snake.GameForm.resources
+E:\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+E:\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+E:\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+E:\Snake\Snake\obj\Debug\Snake.exe
+E:\Snake\Snake\obj\Debug\Snake.pdb
+E:\Projects\Snake\Snake\bin\Debug\Snake.exe.config
+E:\Projects\Snake\Snake\bin\Debug\Snake.exe
+E:\Projects\Snake\Snake\bin\Debug\Snake.pdb
+E:\Projects\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+E:\Projects\Snake\Snake\obj\Debug\Snake.GameForm.resources
+E:\Projects\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+E:\Projects\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+E:\Projects\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+E:\Projects\Snake\Snake\obj\Debug\Snake.exe
+E:\Projects\Snake\Snake\obj\Debug\Snake.pdb
